@@ -2,3 +2,4 @@
 hello Git
 line conflict
 conflict next
+next conflict
